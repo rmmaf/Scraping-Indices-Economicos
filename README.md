@@ -14,4 +14,4 @@ Coleta diária de alguns índices econômicos (guardando tais índices num arqui
             "plyr" e "data.table"
 
 
- # Observações: A última atualização do código foi feita em 21/02/2022, há a possibilidade de algum script de coleta não funcionar devido à mudanças no website.
+ # ATENÇÃO: A última atualização do código foi feita em 21/02/2022, há a possibilidade de algum script de coleta não funcionar devido à mudanças no website.
